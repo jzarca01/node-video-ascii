@@ -37,7 +37,7 @@ Submit an [issue](https://github.com/jzarca01/node-video-ascii/issues/new)
 
 ## Screenshots
 
-[Contribute](https://github.com/jzarca01/node-video-ascii/blob/master/CONTRIBUTING.md) a screenshot
+![cool screenshot](https://github.com/jzarca01/node-video-ascii/tree/master/docs/screenshot.png)
 
 
 ## Credits
